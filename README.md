@@ -11,6 +11,9 @@ Know where you are
 export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 ```
 
+https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh
+
+
 
 Selectively pick parts of a file to commit
 ------------------------------------------
